@@ -11,3 +11,15 @@ Full Stack Developer | Node.js | NestJS | React | Next.js | Remix | JavaScript |
 <p align="center">
 4+ Years of Experience building scalable, secure and high-performance web applications.
 </p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/krishna-goyani">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
