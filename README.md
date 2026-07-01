@@ -18,8 +18,66 @@ Full Stack Developer | Node.js | NestJS | React | Next.js | Remix | JavaScript |
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:goyanikrishna7478@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+</p>
+
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Developer with **4+ years** of experience
+
+- 🚀 Building scalable SaaS applications
+
+- 🔐 Focused on Security, Performance & Clean Architecture
+
+- ⚡ Strong Backend + Modern Frontend experience
+
+- ❤️ Love solving real-world business problems
+
+- 🌱 Currently exploring AI & System Design
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+</p>
+
+- Remix
+- React Native
+- Material UI
+- Chakra UI
+- Ant Design
+- shadcn/ui
+- AG Grid
+- React Query
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+</p>
+
+- AdonisJS
+- BullMQ
+- Socket.IO
+- WebSockets
+- JWT
+- Passport.js
+- Okta
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,prisma"/>
 </p>
