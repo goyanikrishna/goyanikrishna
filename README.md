@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krishna Goyani</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Node.js+%7C+NestJS+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications;4%2B+Years+of+Experience" />
+</p>
+
 <h3 align="center">
-Full Stack Developer | Node.js | NestJS | React | Next.js | TypeScript
+Full Stack Developer | Node.js | NestJS | React | Next.js | Remix | JavaScript | TypeScript
 </h3>
 
 <p align="center">
